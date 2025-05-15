@@ -1,16 +1,19 @@
 # 💻 Hi, I'm Priya Mahato 👋
 
-I'm a passionate **Frontend Developer** and a B.Tech (CSE) student at Meghnad Saha Institute of Technology. I love building modern, responsive, and user-friendly web applications using **ReactJS**, **Tailwind CSS**, and the latest frontend technologies. Currently exploring the world of **data engineering** and backend development!
+🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering** at **Meghnad Saha Institute of Technology**.  
+💻 A passionate **Frontend Developer** focused on crafting responsive and modern user interfaces.  
+📈 Aspiring **Data Engineer**, curious about data pipelines, cloud platforms, and backend systems.  
+🛠️ Currently building real-world projects to bridge design with functionality using **ReactJS**, **Tailwind CSS**, and **Firebase**.
 
 ---
 
 ## 🚀 Tech Stack
 
-- 🌐 **Frontend:** ReactJS, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap
-- ⚙️ **Backend:** Node.js (basic), Firebase, REST APIs
-- 🛢️ **Database:** MySQL, MongoDB (beginner)
-- 💡 **Tools:** Git, GitHub, VS Code, Postman, Figma
-- 🔧 **Languages:** Python, Java, C, SQL
+- 🌐 *Frontend:* ReactJS, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap
+- ⚙ *Backend:* Node.js (basic), Firebase, REST APIs
+- 🛢 *Database:* MySQL, MongoDB (beginner)
+- 💡 *Tools:* Git, GitHub, VS Code, Postman, Figma
+- 🔧 *Languages:* Python, Java, C, SQL
 
 ---
 
@@ -34,6 +37,9 @@ I'm a passionate **Frontend Developer** and a B.Tech (CSE) student at Meghnad Sa
 
 ---
 
-> *“Code is not just a set of instructions, it’s the bridge between imagination and impact.”*
+🧠 *“Learning never exhausts the mind — it sharpens it.”*  
+🎯 Thanks for visiting my profile!
+
+
 
 
