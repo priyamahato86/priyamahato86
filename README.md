@@ -18,9 +18,6 @@
 ---
 
 
-
----
-
 ## 🌱 Currently Learning
 
 - Firebase Authentication & Firestore
@@ -28,21 +25,7 @@
 - Data Engineering with Python and SQL
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyamahato86&show_icons=true&theme=radical" alt="Priya's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyamahato86&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamahato86&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 ## 📫 Let's Connect
 
 - 📧 Email: priyamahato.tech@gmail.com
